@@ -103,7 +103,7 @@ graph LR
 
 ### 1. Clone
 ```bash
-git clone https://github.com/tokunboajayi/Quant-analysis-trading-bot.git
+git clone https://github.com/OlatokunboAjayi/Quant-analysis-trading-bot.git
 cd Quant-analysis-trading-bot
 ```
 
